@@ -1,0 +1,174 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background-color: #008080 !important;
+  opacity: 0.8;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+  font-size: 15px;
+}
+
+#logo {
+  font-size: 23px;
+  line-height: 0;
+}
+
+body {
+  padding-top: 56px;
+}
+
+.showcase {
+  padding-top: 50px;
+  text-align: center;
+  margin-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media (min-width: 576px) {
+  .showcase {
+    padding-top: 100px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.showcase h1 {
+  font-size: 32px;
+  font-weight: normal;
+  font-family: 'Noto Sans';
+}
+
+@media (min-width: 576px) {
+  .showcase h1 {
+    font-size: 56px;
+    font-weight: normal;
+    font-family: 'Noto Sans';
+  }
+}
+
+.showcase h2 {
+  font-size: 21px;
+  font-weight: 400;
+  font-family: 'Noto Sans';
+}
+
+@media (min-width: 576px) {
+  .showcase h2 {
+    font-size: 27px;
+    font-weight: 400;
+    font-family: 'Noto Sans';
+  }
+}
+
+.showcase .links {
+  font-size: 21px;
+  margin-bottom: 50px;
+}
+
+@media (min-width: 576px) {
+  .showcase .links {
+    font-size: 21px;
+    margin-bottom: 80px;
+  }
+}
+
+.showcase-small .links {
+  font-size: 17px;
+  margin-bottom: 80px;
+}
+
+.showcase .links .course-links {
+  margin-right: 20px;
+}
+
+.showcase-small .links .course-links {
+  margin-right: 20px;
+}
+
+.showcase.showcase-1 {
+  background-color: rgb(233,208,209);
+}
+
+.showcase.showcase-2 {
+  background-color: rgb(241,245,244);
+}
+
+.showcase.showcase-3 {
+  background-color: rgb(0,0,0);
+}
+
+.showcase.showcase-4 {
+  background-color: rgb(200,201,205);
+}
+
+.showcase.dark a {
+  color: #fff;
+}
+
+.showcase .links.small-link-margin {
+  margin-bottom: 0;
+}
+
+.showcase-small .links.small-link-margin {
+  margin-bottom: 20px;
+}
+
+.showcase-small {
+  height: 550px;
+  background-color: lightgray;
+  padding-top: 40px;
+  margin: 0 0 10px 0;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media (min-width: 576px) {
+  .showcase-small {
+    margin: 0 0 10px 10px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.showcase-small h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.showcase-small h4 {
+  font-size: 19px;
+  font-weight: 400;
+}
+
+.showcase-small.student-img {
+}
+
+.showcase-grid {
+  padding-right: 0;
+}
+
+@media (min-width: 576px) {
+  .showcase-grid {
+    padding-right: 10px;
+  }
+}
+
+.showcase-small.wizard-mbp {
+  padding-top: 270px;
+}
+
+.showcase-small.ninjas-coding {
+  padding-top: 335px;
+  color: #fff;
+}
+
+.showcase-small.game-pad {
+  padding-top: 390px;
+}
+
+.ninjas-coding .links.small-link-margin a {
+  color: white;
+}
+
