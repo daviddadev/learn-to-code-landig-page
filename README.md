@@ -7,7 +7,7 @@ Feel free to look at my projects. If you want to drop a line visit my personal [
 
 ## Launch
 
-To see the project live tap [here](https://daviddadev.github.io/learn-to-code-landig-page/index.html), and thanks for visiting my GitHub. Enjoy.
+To see the project live tap [here](https://daviddadev.github.io/learn-to-code-landig-page/), and thanks for visiting my GitHub. Enjoy.
 
 - David
 
